@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Hannane/static/css/main.a617e044.chunk.css",
-    "main.js": "/Hannane/static/js/main.9cacc6b2.chunk.js",
-    "main.js.map": "/Hannane/static/js/main.9cacc6b2.chunk.js.map",
+    "main.js": "/Hannane/static/js/main.d7e6450a.chunk.js",
+    "main.js.map": "/Hannane/static/js/main.d7e6450a.chunk.js.map",
     "runtime-main.js": "/Hannane/static/js/runtime-main.b478483e.js",
     "runtime-main.js.map": "/Hannane/static/js/runtime-main.b478483e.js.map",
     "static/js/2.4efc85d7.chunk.js": "/Hannane/static/js/2.4efc85d7.chunk.js",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.b478483e.js",
     "static/js/2.4efc85d7.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.9cacc6b2.chunk.js"
+    "static/js/main.d7e6450a.chunk.js"
   ]
 }
