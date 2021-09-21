@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Hannane/static/css/main.a617e044.chunk.css",
+    "main.js": "/Hannane/static/js/main.9cacc6b2.chunk.js",
+    "main.js.map": "/Hannane/static/js/main.9cacc6b2.chunk.js.map",
+    "runtime-main.js": "/Hannane/static/js/runtime-main.b478483e.js",
+    "runtime-main.js.map": "/Hannane/static/js/runtime-main.b478483e.js.map",
+    "static/js/2.4efc85d7.chunk.js": "/Hannane/static/js/2.4efc85d7.chunk.js",
+    "static/js/2.4efc85d7.chunk.js.map": "/Hannane/static/js/2.4efc85d7.chunk.js.map",
+    "static/js/3.3fa2388a.chunk.js": "/Hannane/static/js/3.3fa2388a.chunk.js",
+    "static/js/3.3fa2388a.chunk.js.map": "/Hannane/static/js/3.3fa2388a.chunk.js.map",
+    "index.html": "/Hannane/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/Hannane/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.4efc85d7.chunk.js.LICENSE.txt": "/Hannane/static/js/2.4efc85d7.chunk.js.LICENSE.txt",
+    "static/media/Bot.8e60d2b0.png": "/Hannane/static/media/Bot.8e60d2b0.png",
+    "static/media/Left.e63a61ae.png": "/Hannane/static/media/Left.e63a61ae.png",
+    "static/media/OIP.15fe9a58.png": "/Hannane/static/media/OIP.15fe9a58.png",
+    "static/media/R.854c8daa.png": "/Hannane/static/media/R.854c8daa.png",
+    "static/media/Right.d2e3ff77.png": "/Hannane/static/media/Right.d2e3ff77.png",
+    "static/media/Top.88f271a2.png": "/Hannane/static/media/Top.88f271a2.png",
+    "static/media/Tulipe.c68a1b23.png": "/Hannane/static/media/Tulipe.c68a1b23.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b478483e.js",
+    "static/js/2.4efc85d7.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.9cacc6b2.chunk.js"
+  ]
+}
